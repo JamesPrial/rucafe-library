@@ -16,8 +16,8 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>JamesPrial's RUCafe</name>
-            <url>https://maven.pkg.github.com/JamesPrial/rucafe</url>
+            <name>JamesPrial's RUCafe Library</name>
+            <url>https://maven.pkg.github.com/JamesPrial/rucafe-library</url>
         </repository>
     </distributionManagement>
 
